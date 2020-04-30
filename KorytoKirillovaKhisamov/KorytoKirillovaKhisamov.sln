@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorytoModel", "KorytoModel\KorytoModel.csproj", "{DAF77F88-A1D7-4A15-A3B5-52C6B678BDB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF77F88-A1D7-4A15-A3B5-52C6B678BDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF77F88-A1D7-4A15-A3B5-52C6B678BDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF77F88-A1D7-4A15-A3B5-52C6B678BDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF77F88-A1D7-4A15-A3B5-52C6B678BDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0369057D-EA7C-4E17-8072-06F4960032F4}
+	EndGlobalSection
+EndGlobal
